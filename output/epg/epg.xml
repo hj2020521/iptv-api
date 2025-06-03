@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250603031221 +0800">
+<tv date="20250603103132 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -22179,6 +22179,18 @@
 	<programme channel="黑莓动画" start="20250603100400 +0800" stop="20250603113200 +0800">
 		<title lang="zh">太空神鹰</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250603113200 +0800" stop="20250603125500 +0800">
+		<title lang="zh">淘气包马小跳</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250603125500 +0800" stop="20250603140100 +0800">
+		<title lang="zh">狐妖小红娘b7月红2</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250603140100 +0800" stop="20250603153000 +0800">
+		<title lang="zh">海绵宝宝：水兵陆战队</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250603153000 +0800" stop="20250603165600 +0800">
+		<title lang="zh">汪汪队立大功大电影（普通话版）</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -22199,6 +22211,18 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250603092400 +0800" stop="20250603104700 +0800">
 		<title lang="zh">独孤天下之异瞳</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250603104700 +0800" stop="20250603121600 +0800">
+		<title lang="zh">婴儿车攻略</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250603121600 +0800" stop="20250603135200 +0800">
+		<title lang="zh">特种兵归来之绝地营救</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250603135200 +0800" stop="20250603153200 +0800">
+		<title lang="zh">黄玫瑰</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250603153200 +0800" stop="20250603171200 +0800">
+		<title lang="zh">射雕英雄传之九阴白骨爪</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
